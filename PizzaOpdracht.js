@@ -11,3 +11,4 @@ var pizzaMediumTotal= (pizzaMediumPrijs*pizzaMedium)
 var pizzaLargeTotal= (pizzaLargePrijs*pizzaLarge)
 
 document.write("Uw totaalbedrag is " + (Number(pizzaSmallTotal)+Number(pizzaMediumTotal)+Number(pizzaLargeTotal)))
+document.write(' euro')
